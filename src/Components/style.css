@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    text-decoration: none;
+    list-style: none;
+}
+.form{
+   padding-top: 20px;
+}
+.detail{
+    margin-top: 20px;
+}
